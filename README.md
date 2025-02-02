@@ -4,7 +4,7 @@
 This project demonstrates the implementation of a real-time Power BI dashboard that updates dynamically using streaming data. The dashboard is connected to a simulated API feed to visualize sales data, including regional breakdowns and time-series trends.
 
 ## Problem Statement
-In modern business environments, real-time data visualization is critical for informed decision-making. Traditional dashboards rely on batch processing, which introduces latency. This project aims to create a real-time dashboard in Power BI using a streaming dataset, ensuring up-to-the-minute analytics and insights.
+In modern business environments, real-time data visualization is critical for informed decision-making. Traditional dashboards rely on batch processing, which introduces latency. This project aims to create a real-time dashboard in Power BI using a streaming dataset, ensuring up to the minute analytics and insights.
 
 ## Components
 The solution consists of the following key components:
