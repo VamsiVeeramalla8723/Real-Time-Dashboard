@@ -76,7 +76,7 @@ The solution consists of the following key components:
 - Share the dashboard with stakeholders.
 - Subscribe to alerts for anomalies in real-time sales.
 
+https://github.com/user-attachments/assets/73224e60-afa4-449c-b277-12e327374bfe
 
 ## Conclusion
 This project successfully sets up a real-time Power BI dashboard using streaming data. The approach ensures businesses can monitor live sales metrics, enabling data-driven decision-making.
-
